@@ -1,6 +1,8 @@
 # Business Model and Unit Economics
 
-Updated 2026-10-14 PT. Assumptions are estimates from conversation; no closed client sales or actual retention data yet.
+Updated 2026-10-15 PT. Assumptions are estimates from conversation; no closed client sales or actual retention data yet.
+
+**Current economics and strategy:** [DEEP_RESEARCH_REPORT.md](DEEP_RESEARCH_REPORT.md) supersedes older pricing/CAC suggestions below. Per the owner's latest direction, **do not impute a founder hourly wage into CAC, contribution or payback**. Cash CAC means out-of-pocket acquisition spend; hours are only capacity metrics. Favor eligible rank-4/5/6 prospects and support retention with calls/bookings/revenue reporting. High retention is a hypothesis, not measured.
 
 ## Core white-label service
 
@@ -11,7 +13,7 @@ Updated 2026-10-14 PT. Assumptions are estimates from conversation; no closed cl
 | Gross contribution/client/month | $200 | Arithmetic; before all other costs |
 | Gross margin | 40% | $200 / $500 |
 | Contract | Month-to-month | Proposed sales offer; verify vendor commitments |
-| Vendor pilot budget | >=20 no-charge trials | User-reported, written terms unverified |
+| Vendor pilot budget | **Three free business trials offered** | User-reported; written terms unverified |
 | Pilot result timeframe | About 7 days | Vendor/user reported; no controlled evidence yet |
 | Possible SEO/GBP upsell | Additional $100–$200/month | Proposed only; no fulfillment/time costing |
 
@@ -35,7 +37,7 @@ Updated 2026-10-14 PT. Assumptions are estimates from conversation; no closed cl
 | $597 | $300 | $297 | 49.7% |
 | $697 | $300 | $397 | 57.0% |
 
-Premium prices require commensurate measurable value; do not raise simply because software can be used cheaply. Trial $500 vs $597 on comparable, qualified prospects if feasible.
+Premium prices require commensurate measurable value; do not raise simply because software can be used cheaply. The October 15 report recommends testing **$697 standard / $597 founding**, with $500 as a comparison.
 
 ### Upsell illustrative math
 
@@ -54,6 +56,8 @@ To consider a prospect eligible, collect or conservatively estimate:
 - Capacity to handle new leads and expected geographic service area.
 
 ## Acquisition model / unknowns
+
+**Current reporting rule:** track actual **cash** acquisition spending and divide by paid clients acquired. Do not assign a hypothetical dollar cost to founder sales or trial hours. Hours may be logged only to assess capacity and later delegation.
 
 A previous discussion used this **illustrative—not observed—monthly funnel**:
 
@@ -74,7 +78,7 @@ At $200 gross monthly contribution: 3-month retention = $600 contribution; 6 mon
 ## White-label vendor questions / contractual due diligence
 
 1. Identity, operating history, method details, relationship with game participants, truthful service description and risk allocation.
-2. 20 free trials: exact eligibility, limits, term, whether card required, activation fees, what is included, whether billing automatically begins.
+2. **Three** offered free business trials: exact eligibility, limits, term, whether card required, activation fees, what is included, whether billing automatically begins.
 3. What data demonstrates sustained results rather than isolated week-long lifts? Original keyword, grid resolution, geo center, dates, competitor context and engagement outcomes.
 4. Vendor service area and hidden-address limitations; minimum address, reviews, listing verification requirements.
 5. Suspension/negative outcomes, warranty, refunds, cancellations, and notice periods.
