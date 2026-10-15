@@ -19,7 +19,7 @@
 - Historical Outscraper export: 150 unique Place IDs (96 Concord, 54 Vallejo); 12 preliminary shortlist. **No verified current geo-grid positions**.
 - No outreach, enrollment, paid subscriptions, completed trial conversions or observed retention has been recorded.
 
-## Execution checklist
+## Immediate low-cost geo-grid test (added 2026-10-15)\n\nThe owner plans to experiment with **one or two real prospects** first; don't spend money or initiate outreach without authorization. See [the expanded vendor/tool comparison](GEO_GRID_TOOL_COMPARISON_2026-10-15.md) for 15 options, trial/profile restrictions and practitioner feedback.\n\n- [ ] Choose one or two physical-location prospects and 1–2 commercially relevant keywords per shop. Prefer businesses with measurable rank-4/5/6 upside, reasonable Top-3 opportunity and reviews competitive with actual incumbents.\n- [ ] Try a free Whitespark 5x5 scan (200 free credits), or Grid My Business free (250 credits with 2 profiles). GridBeacon's 500 free credits support **one** business, and Local Falcon has 100 trial credits. **Check account-level free allocation before using credits.**\n- [ ] Keep baseline **and** follow-up capacity. Two prospects x two keywords x 25 pins x two dates = about 200 credits under standard rules.\n- [ ] Save actual keyword, Place ID, lat/lng, scan time, grid spacing/radius, provider, visible top-3 percentage, reviews/ratings of competing winners, and PDF/CSV where allowed.\n- [ ] Compare tools based on accuracy consistency, competitive context, export/share quality and whether the owner would understand a sales report—not price alone.\n- [ ] Bring anonymous insights and observed test outcomes into GitHub; do not commit private client report files or contact lists to this public repository.\n\n## Execution checklist
 
 - [ ] Confirm provider terms in writing: free trial slots, $300 wholesale, membership/setup fees, cancellation, keywords, reporting, exclusivity and billing triggers.
 - [ ] Refresh historical Concord/Vallejo candidates and add Fairfield shops. Check address, reviews, website, service relevance and owner access.
@@ -46,6 +46,6 @@ Each requires a **fresh rank-4/5/6 opportunity check**, owner approval, commerci
 - [PROVIDER_TOOLKIT_BRIEF.md](PROVIDER_TOOLKIT_BRIEF.md) — provider trial rules and PDF summary.
 - [OUTSCRAPER_PILOT.md](OUTSCRAPER_PILOT.md) — historical dataset and candidate shortlist.
 - [BUSINESS_MODEL.md](BUSINESS_MODEL.md) — historical gross contribution scenarios; report supersedes older assumptions.
-- [AGENTS.md](../AGENTS.md) — authoritative latest project memory.
+- [AGENTS.md](../AGENTS.md) — authoritative latest project memory.\n- [GEO_GRID_TOOL_COMPARISON_2026-10-15.md](GEO_GRID_TOOL_COMPARISON_2026-10-15.md) — latest tool options for 1–2 prospect tests.\n- [RESEARCH_CHANGELOG.md](RESEARCH_CHANGELOG.md) and [REPOSITORY_MAINTENANCE.md](REPOSITORY_MAINTENANCE.md) — source-of-truth change tracking and future-chat write process.
 
 Do not buy, join, contact prospects, activate trials or promise guarantees without specific authorization. This public repository should not contain private prospect contacts, confidential vendor files or credentials.
