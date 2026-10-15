@@ -3,6 +3,15 @@
 **Updated:** 2026-10-15 Pacific.  
 **Status:** Comprehensive business-opportunity research **completed and saved** in **[DEEP_RESEARCH_REPORT.md](DEEP_RESEARCH_REPORT.md)**. Read [AGENTS.md](../AGENTS.md) for latest owner instructions.
 
+## First named real-world prospect: Wes's Car Tunes (2026-10-15)
+
+See [Wes's Car Tunes keyword/geo-grid research](WES_CAR_TUNES_KEYWORD_GRID_RESEARCH_2026-10-15.md). The owner's uploaded CSV has 2,344 Google Keyword Planner keyword rows, but no local targeting metadata; **don't interpret 90,500 or 60,500 as Placerville search volume**. First 5x5 grid query sequence: `car stereo installation near me`, `car audio near me`, `custom car audio near me`. Try `car stereo shops near me` and `classic car stereo` next after checking whether Maps shows local installers. At one credit/pin, three 5x5 queries pre/post cost ~150 credits; save matched scan geometry/time and leave credits for the follow-up. The prospect's publicly described classic-car work could be premium, but **actual margins, owner interest and local pack ranking have not been checked**. This is a screening experiment, **not yet a confirmed vendor trial or replacement for the earlier proposed first-three-trial list**.
+
+- [ ] Verify Wes's exact Maps listing/Place ID and how the **classic car stereo** SERP looks locally.
+- [ ] Check with Wes which current service produces best profit and which job types they want; obtain consent before activating any trial or advertising results.
+- [ ] Re-run Planner with explicit Placerville/nearby geo targeting and record settings; do not sum close variants.
+- [ ] Run independent 5x5 baseline (ideally 3 terms), record positions 4–6 and review-matched competitors, and schedule matched follow-up only if authorized.
+
 ## Owner's latest decisions
 
 - **Do not price the founder's time hourly into customer acquisition or contribution.** Use **out-of-pocket cash CAC**. Track hours separately only to understand operating capacity and when delegation may be needed.
