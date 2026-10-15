@@ -1,56 +1,39 @@
 # Current Next Steps
 
-**Updated:** 2026-10-14 Pacific. These steps supersede the earlier vendor-validation-first schedule.
+**Updated:** 2026-10-14 Pacific.
 
-## Working assumptions
+## Immediate step: a new Deep Research chat
 
-- Provider ranking improvement is accepted for planning, as Mitch instructed.
-- Free prospect trials and a supplied geo-grid tool are available.
-- Immediate offer: **three companies ranked free**.
-- The agency's job is prospect selection, owner access, measured demonstration and recurring sales.
+Use [DEEP_RESEARCH_PROMPT.md](DEEP_RESEARCH_PROMPT.md). The full assignment is [DEEP_RESEARCH_BRIEF.md](DEEP_RESEARCH_BRIEF.md); the source PDF is summarized in [PROVIDER_TOOLKIT_BRIEF.md](PROVIDER_TOOLKIT_BRIEF.md).
 
-## Start here
+The assignment is to research the opportunity to start an agency with a **free, approximately one-week ranking demonstration before a prospect pays**. Deliver a substantial business assessment, not another plan alone.
 
-Read [SALES_RESEARCH.md](SALES_RESEARCH.md) for the completed research and [DEEP_RESEARCH_PLAN.md](DEEP_RESEARCH_PLAN.md) for remaining evidence needs.
+## Facts the research must respect
 
-## Execution checklist
+- Mitch has **not joined the provider** and **does not have its tool**.
+- Assume provider ranking capability, as Mitch instructed.
+- The provider has offered three free business trials.
+- Tool access, live prospect scans and outreach are not prerequisites for this desk research.
+- Existing research is preliminary. Expand beyond it using real agency offers, original research, operator experience and buyer discussions.
+- Research cheap qualification/grids before membership and the possible role of the supplied tool afterward.
+- Ranking improvement is distinct from new customers/revenue within the same week.
 
-### Provider tool and candidate qualification
+## Required research deliverables
 
-- [ ] Get provider-tool URL/access or sample scan exports/screenshots.
-- [ ] Check whether scans can be run before trial activation and whether competitor grids are available.
-- [ ] Confirm point geometry, top-20 coverage, Top 3%, ARP treatment of absent results, and report/export options.
-- [ ] Scan 5–10 businesses from the existing shortlist on a small set of relevant terms.
-- [ ] Recheck reputation against actual visible competitors and confirm website/address/service fit.
-- [ ] Keep at least two relevant eligible keywords per strong candidate; focus the trial on the provider's 3–5 selected terms.
-- [ ] Select the final three using actual grids and buyer readiness.
+- [ ] Candid opportunity recommendation and meaningful differentiation.
+- [ ] Concrete comparison of current ranking/local-SEO and rank-first/free-trial/performance offers.
+- [ ] Best starting verticals and customer qualification.
+- [ ] Prospect discovery, affordable geo-grid workflow and owner access.
+- [ ] Acquisition-channel assessment and original outreach/offer ideas.
+- [ ] Free demonstration, results review and trial-to-paid selling process.
+- [ ] Economics at $500/$597/$697 and 5/10/20/50 clients, including time, CAC and retention.
+- [ ] Ongoing client value, cancellation/retention factors and founder workload.
+- [ ] 30/60/90-day roadmap and proposed first three-trial experiment.
+- [ ] Dated citations/source register; facts, anecdotes and assumptions clearly identified.
+- [ ] Findings and updated handoff saved to GitHub if write access exists.
 
-### Buyer and trial setup
+## Decisions after research
 
-- [ ] Verify owner or marketing decision-maker through public business sources and the business itself.
-- [ ] Confirm desired jobs, capacity, approximate contribution per customer, and interest in the trial.
-- [ ] Explain free scope, duration, price afterward and how continuation is authorized.
-- [ ] Preserve baseline reports with exact settings.
-- [ ] Book the results review before activating each trial.
-- [ ] Run the three provider-funded trials.
+Decide whether to pursue the agency, which niche/offer/channel to start with, what information matters before joining, how much cash/time to commit, and which limited experiment would justify further investment.
 
-### Results and commercial learning
-
-- [ ] Compare the same points, terms and geography at the agreed results review.
-- [ ] Explain change in Top 3 share and local coverage without equating it with a fixed customer increase.
-- [ ] Record real inquiries/appointments if available; profile calls are call-button clicks, not confirmed jobs.
-- [ ] Offer the agreed ongoing scope and monthly price.
-- [ ] Track paid/deferred/declined/no-show, reasons, labor and support effort.
-- [ ] Review retention and actual ongoing value as clients continue.
-
-## Candidate pool
-
-The Repair Shop (Concord), Sonoma Auto Tech (Vallejo), Clayton Valley Auto Service (Concord), and Gene's Auto Repair (Vallejo) are starting candidates, not confirmed choices. See [OUTSCRAPER_PILOT.md](OUTSCRAPER_PILOT.md) for the original 12. Current grids and buyer conversations determine the final three. No outreach has been sent or trial activated by the assistant.
-
-## What input unlocks the next step
-
-A provider-tool link with usable access, or its grid exports/screenshots for shortlisted businesses. The raw Outscraper files are only needed if we need to revisit all rows; their summary already exists here.
-
-## Current milestone
-
-Three properly qualified prospects accept the free trial, attend a results review, and make a clear continuation decision. Capture what helped or blocked the sale. Do not treat three outcomes as statistically stable conversion estimates or build a custom app before the process repeats.
+Only then sequence enrollment/tool access, actual candidate grids, owner outreach and the free trials. No enrollment, purchase, outreach or trial has been initiated by the assistant.

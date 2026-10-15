@@ -1,4 +1,6 @@
-# Selling Google Maps Ranking: Research and Operating Recommendations
+# Preliminary Sales Research: Google Maps Ranking Agency
+
+> **Scope/access correction — 2026-10-14 Pacific:** Mitch has not joined the provider and has no access to its grid tool. Tool-first recommendations below were made under an incorrect access assumption. This report is a preliminary source collection/tactical pass, not the requested comprehensive agency-opportunity study. Read [DEEP_RESEARCH_BRIEF.md](DEEP_RESEARCH_BRIEF.md) for the current assignment and [PROVIDER_TOOLKIT_BRIEF.md](PROVIDER_TOOLKIT_BRIEF.md) for the fuller PDF summary, including paid keyword allowances and ad usage restrictions. Research the business broadly before requiring enrollment or tool access.
 
 **Research date:** 2026-10-14 Pacific (2026-10-15 UTC)  
 **Status:** Completed desk research; sales recommendations are proposed tests, not measured conversion results.  
@@ -7,7 +9,7 @@
 
 ## 1. Current direction
 
-Mitch's latest instruction governs this report: **assume the provider can deliver the ranking improvements it describes.** The provider supplies a ranking/grid tool and has asked for **three companies to rank for free**. Free trials are available for prospects. The commercial task is to find suitable businesses, reach an owner or authorized buyer, demonstrate an improvement, and earn a monthly client.
+Mitch's latest instruction governs this report: **assume the provider can deliver the ranking improvements it describes.** The provider says it supplies a ranking/grid tool to members; Mitch has not joined and cannot use it yet. It has asked for **three companies to rank for free**. Free trials are available for prospects. The commercial task is to find suitable businesses, reach an owner or authorized buyer, demonstrate an improvement, and earn a monthly client.
 
 The three-company offer is the immediate opportunity. Earlier references to 20+ trials are background; they should not replace the latest concrete offer. The research does not require re-proving fulfillment before proceeding. Consistent measurement is needed to choose prospects and present their results.
 

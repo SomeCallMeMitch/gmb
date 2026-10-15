@@ -2,17 +2,21 @@
 
 Last updated: 2026-10-14 (Pacific). Repository: `SomeCallMeMitch/gmb`.
 
-## Current direction — read before older project documents
+## Latest direction — governs all earlier notes
 
-Mitch has explicitly clarified the strategy:
+Mitch has **not joined Jumper Local/Jumper Media** and **does not have access to its grid tool**. Do not describe that tool as currently available or make provider-tool access a prerequisite for research.
 
-- **Assume the provider can deliver its stated ranking improvement.** This is the planning assumption; no independently measured client outcome is yet recorded here. Do not make another vendor-effectiveness investigation a prerequisite for sales research or initial prospect work unless Mitch asks.
-- Provider materials are branded **Jumper Local / Jumper Media**. The attached Agency Reseller Tool Kit was reviewed in the current project conversation. The raw PDF is not stored in this public repository.
-- The provider supplies its own **ranking/geo-grid tool**. Prefer using it before recommending another paid grid platform.
-- The immediate concrete offer is **three companies ranked for free**. Free trials can be offered to prospects. Earlier references to 20+ trials are background; use the latest three-company offer for immediate planning.
-- Main business tasks: find businesses with commercially relevant keyword ranking opportunities, reach the owner or authorized buyer, demonstrate a measured improvement, then sell recurring service.
-- Outscraper's returned order cannot select the best prospects. Actual grids for specific terms and locations are the priority. The existing export remains a useful inventory.
-- The completed sales desk-research report is `docs/SALES_RESEARCH.md`. Read it before repeating general tool, sales, or prospecting research.
+**Immediate task:** prepare/continue a comprehensive Deep Research study of the opportunity to start a Google Maps ranking agency with a **free one-week ranking demonstration before the prospect buys**. Study the business, market and sales model broadly using the Internet. The previous sales report is preliminary and does not complete this assignment.
+
+- Accept the provider's ability to produce its described ranking improvements as a working assumption, per Mitch. Do not center the study on re-proving fulfillment.
+- The provider has offered to rank **three businesses free**, and free prospect trials are part of the proposed model.
+- The provider says it supplies a ranking/grid tool to members; any future role must be distinguished from tools usable before joining.
+- Primary questions: demand, competitors and comparable offers, best customers, prospecting, reaching owners, trial-to-paid selling, pricing, costs/CAC, ongoing value, retention, workload and launch feasibility.
+- A one-week ranking demonstration is not an assumed one-week revenue/customer guarantee.
+- Read `docs/DEEP_RESEARCH_BRIEF.md` for the full assignment and `docs/PROVIDER_TOOLKIT_BRIEF.md` for the detailed PDF summary with page references.
+- `docs/DEEP_RESEARCH_PROMPT.md` contains the copyable new-chat prompt.
+- The raw PDF is not in GitHub; the page-referenced summary is available here. If the original is attached to the research chat, read it directly.
+- Preserve useful earlier research, but do not treat `docs/SALES_RESEARCH.md` as a comprehensive opportunity study or repeat only its tactical recommendations.
 
 ## What this project is
 
@@ -39,7 +43,7 @@ Mitch favors practical, cost-efficient tests and has marketing/sales experience 
 4. Candidates include Sonoma Auto Tech, The Repair Shop, Clayton Valley Auto Service, Gene's Auto Repair and others. Their current relevant grid rankings are **not yet established**.
 5. The Repair Shop in Concord was previously suggested as a first study, not proven the best candidate.
 6. Raw spreadsheets are not in GitHub or automatically available to future chats. Request attachments only if row-level work needs them; use documented summaries otherwise.
-7. Completed current web research covers grid-based prospecting, review evidence, owner contact research, outreach, trial-to-paid process, measurement and economics. See `docs/SALES_RESEARCH.md` with its source register.
+7. Preliminary web research covers grid-based prospecting, review evidence, owner contact research, outreach, trial-to-paid process, measurement and economics. See `docs/SALES_RESEARCH.md` with its source register.
 
 ## Provider kit: useful operating guidance and ambiguities
 
@@ -51,17 +55,19 @@ Use the free trial commercially: qualify, agree terms and baseline, book the res
 
 ## Next actions
 
-1. Get provider-tool URL/access or actual grid exports/screenshots. Inspect pre-activation scanning, competitor views, reports and repeat settings.
-2. Scan relevant terms for 5–10 shortlisted businesses.
-3. Identify at least two relevant qualifying terms, compare reviews, verify address/site fit, and establish decision-maker access.
-4. Select **three** businesses based on grids and buyer readiness, not Outscraper sequence.
-5. Agree the free trial, continuation price/scope, and results review before activation.
-6. Track actual buyer reach, show rate, trials, paid conversion, support effort, retention and reasons lost.
-7. Deepen research based on the observed bottleneck. Build software only after the manual workflow repeats.
+1. Conduct the broad agency-opportunity study specified in `docs/DEEP_RESEARCH_BRIEF.md`.
+2. Compare real current agency offers, practitioner/owner experiences, channels, verticals, pricing, acquisition/retention economics and operational demands.
+3. Recommend whether/how to proceed, with scenarios and a 30/60/90-day plan.
+4. Research affordable ranking/prospect qualification options usable before joining; evaluate a provider tool only as a future possibility.
+5. After the opportunity study, choose implementation and trial steps based on its conclusions. Actual scans/outreach/trials are not prerequisites for completing the research.
+6. Save sourced findings and decisions to the repo when authorized tools are available.
 
 ## Read next
 
-- `docs/SALES_RESEARCH.md` — completed research and practical recommendations.
+- `docs/DEEP_RESEARCH_BRIEF.md` — full current opportunity-research assignment.
+- `docs/PROVIDER_TOOLKIT_BRIEF.md` — detailed source PDF summary.
+- `docs/DEEP_RESEARCH_PROMPT.md` — new-chat prompt.
+- `docs/SALES_RESEARCH.md` — preliminary sources and tactical recommendations, not the final opportunity study.
 - `docs/DEEP_RESEARCH_PLAN.md` — revised sales-focused research scope.
 - `docs/NEXT_STEPS.md` — current execution priorities.
 - `docs/OUTSCRAPER_PILOT.md` — historical export and shortlist evidence.

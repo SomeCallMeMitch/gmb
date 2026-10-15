@@ -1,62 +1,35 @@
-# Sales Research Plan and Continuation
+# Deep Research Plan: Agency Opportunity
 
-**Updated:** 2026-10-14 Pacific  
-**Status:** Initial desk research completed in [SALES_RESEARCH.md](SALES_RESEARCH.md).
+**Updated:** 2026-10-14 Pacific. Supersedes the earlier tool-first launch sequence.
 
-## Governing direction
+## Governing assignment
 
-Mitch instructs us to assume that the provider delivers its stated ranking improvement. It offers free prospect trials, has asked for **three companies to rank free**, and supplies its own grid tool. Research should optimize prospect selection, decision-maker reach, demonstration and paid conversion. This supersedes the previous vendor-validation-first plan.
+Conduct comprehensive research on starting Mitch's Google Maps ranking agency using a **free one-week ranking demonstration before a paid engagement**. Provider delivery is accepted as a planning premise. Mitch has **not joined the provider and has no tool access**.
 
-## Completed research
+The detailed specification is [DEEP_RESEARCH_BRIEF.md](DEEP_RESEARCH_BRIEF.md). The new-chat prompt is [DEEP_RESEARCH_PROMPT.md](DEEP_RESEARCH_PROMPT.md). The provider PDF is summarized in [PROVIDER_TOOLKIT_BRIEF.md](PROVIDER_TOOLKIT_BRIEF.md).
 
-The linked report reviews primary grid documentation, original consumer/SMB surveys, outreach research, public-record guidance, candidate business websites, the provider kit and public offer, and a buyer anecdote. It includes a source register and distinguishes external findings from operating recommendations.
+## Research workstreams
 
-| Workstream | Finding/recommendation | Remaining real-world evidence |
-|---|---|---|
-| Ranking opportunity | Use actual terms/coordinates; inspect competitor grids; prefer supplied tool | Provider-tool capability and candidate scans |
-| Reputation and commercial fit | Review parity, desired services, job contribution and capacity | Current competitors and owner conversation |
-| Decision-maker reach | Website/records as clues, then verify through the business | Buyer identity, authority and contact outcome |
-| Offer and trial | Clear free scope and continuation price; results meeting booked before activation | Acceptance, attendance, objections and paid decisions |
-| Reporting | Fixed grids; Top 3 share distinct from top-20 coverage; calls distinct from call clicks | Saved before/after and business-authorized records |
-| Economics | $500/$300 yields $200 before other expenses | Actual acquisition/support effort and retention |
+| Workstream | Decision it should inform |
+|---|---|
+| Demand, buyer priorities and trust | Is there a meaningful opportunity for a new agency? |
+| Real competitors, prices and free-trial/performance models | How should the agency differentiate and frame its offer? |
+| Vertical/city/customer fit | Which businesses should Mitch start with? |
+| Prospecting and grids before provider membership | How can useful opportunities be identified affordably? |
+| Owner access and acquisition channels | How can a solo founder reach real buyers? |
+| Demonstration and conversion | How should a seven-day proof-first sales process work? |
+| Pricing, costs, CAC, retention and hours | Can it earn worthwhile profit at realistic scale? |
+| Ongoing service and churn | Why will clients renew after an initial ranking gain? |
+| Launch experiments | What should happen over the first 30/60/90 days? |
 
-## Next research sequence
+## Method
 
-### 1. Inspect the provider's tool
+Use primary offers and original research for current facts, practitioner cases for operating experience, and owner/community discussions for objections and qualitative evidence. Compare success and failure accounts. Verify live prices/features and identify source limitations. Keep hypothesized sales metrics separate from real observations.
 
-Need a tool URL/access or actual export/screenshots. Determine:
-- Can we scan candidate businesses before starting a trial?
-- Can one scan expose other businesses and their grids?
-- What are exact metrics, result depth and missing-result handling?
-- Can we preserve/share reports and repeat identical points?
-- What trial limits, keyword count and geography apply to our account?
+Do not spend the assignment re-proving the provider or insist on its tool, a new export, live grids or owner interviews before completing the research. Research those as implementation choices. The existing sales report is a starting source collection, not the completed comprehensive study.
 
-Use current access first; compare a paid alternative only for a specific missing capability.
+## Output
 
-### 2. Research 5–10 real prospects with grids
+Produce the recommendation, competitor/vertical/channel comparisons, offer and original message examples, transparent economics, retention/workload assessment, material limitations, launch roadmap and source register described in the full brief.
 
-Reuse the existing auto-repair shortlist. Test a few relevant unbranded core/specialty terms. Compare review credibility and catchment, and shortlist businesses with at least two relevant eligible terms and realistic room to improve.
-
-Resolve the kit's coverage ambiguity: 100% top-20 coverage does not mean 100% Top 3 presence. Do not discard otherwise suitable businesses based solely on that wording.
-
-### 3. Reach buyers and choose three trials
-
-Confirm ownership/marketing authority, desired services, ability to accept more work, and interest in a free demonstration. Choose three actual sales opportunities. Agree baseline, scope, continuation price and a dated results meeting before activation.
-
-### 4. Learn from the sales outcomes
-
-Record qualification yield, buyers reached, trial acceptance, show rate, paid decisions, time spent, and reasons lost. A three-trial cohort identifies practical friction; it does not establish reliable conversion or retention benchmarks.
-
-### 5. Research the bottleneck
-
-- Too few eligible keywords: investigate market/term selection or adjacent service verticals.
-- Too few buyers reached: improve contact verification and channel choice.
-- Low trial acceptance: improve clarity, relevance and trust.
-- Good ranking results but low paid conversion: examine commercial relevance, expectations, price and presentation.
-- Paid clients cancel: investigate inquiry quality, ongoing value and account service.
-
-## Repository continuity
-
-AGENTS.md contains the current governing assumptions. README.md links to the report. NEXT_STEPS.md defines execution priorities. Earlier project documents preserve the history; do not restart generic provider-effectiveness diligence as a gate without a new instruction.
-
-Keep prospect contact records, client-specific reports and raw data private. Store general methods, dated research links, aggregate results and decisions in the public repo.
+Save appropriate findings to the repo and update AGENTS/README if tools permit. Otherwise return the complete report and Markdown ready to save. Preserve the existing project history and keep private contacts/raw data confidential.
