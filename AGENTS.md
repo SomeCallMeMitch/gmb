@@ -2,47 +2,75 @@
 
 Last updated: 2026-10-14 (Pacific). Repository: `SomeCallMeMitch/gmb`.
 
+## Current direction — read before older project documents
+
+Mitch has explicitly clarified the strategy:
+
+- **Assume the provider can deliver its stated ranking improvement.** This is the planning assumption; no independently measured client outcome is yet recorded here. Do not make another vendor-effectiveness investigation a prerequisite for sales research or initial prospect work unless Mitch asks.
+- Provider materials are branded **Jumper Local / Jumper Media**. The attached Agency Reseller Tool Kit was reviewed in the current project conversation. The raw PDF is not stored in this public repository.
+- The provider supplies its own **ranking/geo-grid tool**. Prefer using it before recommending another paid grid platform.
+- The immediate concrete offer is **three companies ranked for free**. Free trials can be offered to prospects. Earlier references to 20+ trials are background; use the latest three-company offer for immediate planning.
+- Main business tasks: find businesses with commercially relevant keyword ranking opportunities, reach the owner or authorized buyer, demonstrate a measured improvement, then sell recurring service.
+- Outscraper's returned order cannot select the best prospects. Actual grids for specific terms and locations are the priority. The existing export remains a useful inventory.
+- The completed sales desk-research report is `docs/SALES_RESEARCH.md`. Read it before repeating general tool, sales, or prospecting research.
+
 ## What this project is
 
-Build a small, scalable, white-label local search/Google Maps visibility agency for real local businesses. Acquire customers using a compelling, measurable before-and-after Google Maps rank grid. The business owner has marketing/sales experience and local SEO familiarity. The strategy is to sell the results and account relationship while outsourced fulfillment handles a narrow ranking service; upsell legitimate GBP/website/local SEO enhancements.
+Build a small, scalable agency selling Google Maps visibility and related GBP/website/local SEO services to real local businesses. Outsourced fulfillment supplies the narrow ranking service; our agency controls prospect qualification, sales, customer relationships, reporting and complementary services.
 
-## Most important known facts
+Mitch favors practical, cost-efficient tests and has marketing/sales experience and local SEO familiarity. The business depends on provider delivery; under the current instruction, assume that part works and research the commercial process.
 
-- Hypothesized outsourced service **cost: $300 per business per month**, target sell price **$500/month**, yielding **$200/client/month gross contribution** before any operating and acquisition expenses (40% gross margin). Test higher prices ($597–$697) after proof of value.
-- Potential add-on services: Google Business Profile optimization, posting, website local SEO, citations/content; tentative **$100–$200/month** additional price (models often use $150), but fulfillment cost/time not yet estimated.
-- The unnamed fulfillment vendor claims rankings can improve quickly (about a week) via gamified **physical visits/drives** by local Google Guides/participants, offered white-label. They reportedly offered **at least 20 free pilot trials** initially, possibly more based on success. No verified independent documentation or contract yet. User is confident the method works based on prior experience. Potential Google policy risk remains; do not guarantee rankings or claim zero detection risk.
-- Vendor reportedly cannot service some businesses lacking a usable public physical address, even though Google permits compliant service-area businesses to hide addresses. The vendor's eligibility rule is narrower than Google's GBP eligibility.
-- Desired prospects: high-value, owner-operated local services with physical locations, solid reviews/ratings, room to improve map visibility, and enough conversion potential to justify recurring fees. User emphasizes a shop with 15 reviews ranking above shops with 300/500 may still get poor clicks; review parity matters as much as ranking.
-- Go-to-market: remove perceived risk by providing a no-charge diagnostic / qualifying pilot, objectively measure gains, sell month-to-month with easy cancellation. Avoid promising a specific rank or revenue result.
-- Working geography: Benicia, Vallejo, Fairfield, Concord, Napa and nearby Northern California cities. **First actual export covers Concord and Vallejo, not Benicia**.
-- Discovery and rank assessment are distinct: use Outscraper to get listings and business details; score/filter candidates; only then buy 5x5 or 7x7 geo-grid scans for best candidates using a tool such as Whitespark or Local Falcon. Outscraper returned order is not a measured geo-grid ranking.
+## Working business facts and assumptions
 
-## Real progress
+- Reported vendor cost: **$300 per business/month**.
+- Working retail price: **$500/month**, giving **$200/client/month before operating/acquisition expenses**, a 40% margin before those costs.
+- $597–$697 alternatives are ideas to test after learning from actual sales; not validated prices.
+- GBP/site SEO add-ons of $100–$200/month have been discussed, but delivery scope/cost are not established.
+- Proposed continuation: month-to-month with uncomplicated cancellation. State actual trial and continuation terms in advance; do not silently activate paid billing.
+- Working geography: Benicia, Vallejo, Fairfield, Concord, Napa and nearby Northern California. First actual export is Concord/Vallejo, not Benicia.
+- Prefer credible, owner-operated businesses with strong recent reviews relative to visible competitors, relevant search demand, address/provider fit, enough job contribution, capacity and a reachable buyer.
+- A low-review shop outranking a much better-reviewed competitor may still struggle to win customers. Review parity matters alongside ranking.
 
-1. User signed up for **Outscraper**, uploaded its category list (`categories.xlsx`, reported 4,274 categories), and ran an initial auto-repair search.
-2. First export (`Outscraper-20261015034444s0636.xlsx`) contains **150 rows, 150 distinct Google Place IDs; 96 Concord, 54 Vallejo; 148 operational** at export. Three queries: 87 for `auto repair shop, 94522, Concord, CA, US`; 54 for `auto repair shop, 94592, Vallejo, CA, US`; 9 for `auto repair shop, 94518, Concord, CA, US`. ZIP-query geography and results do not perfectly correspond.
-3. A separate analysis workbook (`Google_Maps_Prospect_Analysis.xlsx`) contains Overview, Priority Leads (12), All 150, Scoring Guide. It is not yet in GitHub. Its scores are **heuristics, not validated predictions**.
-4. Lead examples: Sonoma Auto Tech (Vallejo, 4.7 / 67 reviews, returned 11); The Repair Shop (Concord, 4.9 / 68, returned 22); Clayton Valley Auto Service (Concord, 4.8 / 64, returned 28); Gene's Auto Repair (Vallejo, 4.6 / 128, returned 15); TrueTest Auto Repair (Concord, 5.0 / 71, returned 12). These orders are per source query and not verified Maps positions.
-5. Recommended first full test case was **The Repair Shop in Concord**. Still needs current eligibility and grid verification.
+## Existing work — do not repeat it blindly
 
-## Required research/decisions before scaling
+1. Outscraper account created and initial category research performed.
+2. Original export `Outscraper-20261015034444s0636.xlsx`: **150 distinct Place IDs**, 96 Concord, 54 Vallejo, 148 operational at export. Three source queries (87, 54 and 9 rows); source query geography does not perfectly match returned business geography.
+3. Derived `Google_Maps_Prospect_Analysis.xlsx`: Overview, Priority Leads (12), All 150, Scoring Guide. Initial scores are screening heuristics, not validated predictions.
+4. Candidates include Sonoma Auto Tech, The Repair Shop, Clayton Valley Auto Service, Gene's Auto Repair and others. Their current relevant grid rankings are **not yet established**.
+5. The Repair Shop in Concord was previously suggested as a first study, not proven the best candidate.
+6. Raw spreadsheets are not in GitHub or automatically available to future chats. Request attachments only if row-level work needs them; use documented summaries otherwise.
+7. Completed current web research covers grid-based prospecting, review evidence, owner contact research, outreach, trial-to-paid process, measurement and economics. See `docs/SALES_RESEARCH.md` with its source register.
 
-- Get white-label vendor identity, methodology, contract, data and eligibility rules. Validate trials and outcome measurements.
-- Verify **current** pricing, per-credit mechanics, API access, bulk upload and report export for Outscraper, Whitespark, Local Falcon, Local Viking, BrightLocal, Apify. Earlier chat prices are date-sensitive, not verified purchase quotes.
-- Run baseline geographic grids at fixed center/radius/grid resolution/keyword/time settings, and repeat with same settings; track business outcomes as available.
-- Select target verticals using review parity, address suitability, high job economics, category relevance, competition and geography. Avoid trying to sell competing clients mutually incompatible ranking guarantees in the same exact market.
-- Run outreach tests, measure real response/meeting/trial-to-paid conversion and customer retention; model CAC and direct fulfillment cost.
+## Provider kit: useful operating guidance and ambiguities
 
-## Read these files next
+The kit suggests verified physical address on GBP, 10+ positive reviews, 3.5+ rating, linked keyword-relevant site, 3–5 keywords, generally >70% coverage and ARP <12 with room to improve Top 3 share. Two relevant qualifying keywords strengthen a prospect.
 
-- `docs/PROJECT_CONTEXT.md` and `docs/BUSINESS_MODEL.md` for strategy and finances.
-- `docs/TOOLS_AND_SOURCES.md` and `docs/PROSPECTING_PLAYBOOK.md` for data/API and ops.
-- `docs/OUTSCRAPER_PILOT.md` for exported results and shortlist.
-- `docs/NEXT_STEPS.md` for an executable test plan.
+Coverage is defined as top-20 presence; Top 3% is a separate measure. Do not reject 100% top-20 coverage alone if Top 3 share is weak. Ask provider to clarify inconsistent wording, ARP missing-result handling and actual grid geometry. Do not confuse 5x5 pins with miles across or radius.
 
-## Notes for future chats / assistants
+Use the free trial commercially: qualify, agree terms and baseline, book the results appointment, activate, show matched before/after, offer continuation. A rank lift is not automatically a particular number of new customers.
 
-- The owner favors concrete, cost-efficient tests rather than complex software before validation. Give practical proposals and work from actual uploaded/exported data when available.
-- Distinguish **facts from user-reported vendor claims, analytical hypotheses, and unverified tool pricing**. Do not confuse result order with actual ranking.
-- Tech preference if eventually building an app: **Base44 + React, Tailwind, shadcn/ui, lucide-react, react-router-dom, react-hook-form, recharts, react-quill, moment/date-fns, lodash, three.js, react-leaflet and @hello-pangea/dnd only**. Use Base44 Entities SDK (`@/entities`), User methods, and Core integrations; `createPageUrl('PageName')` for internal routes; defensive null checks and loading indicators; no new auth pages, avoid unsupported libraries. Keep API keys server-side and treat Google scraping/APIs as an external worker/service, not unsupported direct browser logic.
-- Repository is currently public; do not commit unapproved private customer contact data, account secrets, or proprietary contracts.
+## Next actions
+
+1. Get provider-tool URL/access or actual grid exports/screenshots. Inspect pre-activation scanning, competitor views, reports and repeat settings.
+2. Scan relevant terms for 5–10 shortlisted businesses.
+3. Identify at least two relevant qualifying terms, compare reviews, verify address/site fit, and establish decision-maker access.
+4. Select **three** businesses based on grids and buyer readiness, not Outscraper sequence.
+5. Agree the free trial, continuation price/scope, and results review before activation.
+6. Track actual buyer reach, show rate, trials, paid conversion, support effort, retention and reasons lost.
+7. Deepen research based on the observed bottleneck. Build software only after the manual workflow repeats.
+
+## Read next
+
+- `docs/SALES_RESEARCH.md` — completed research and practical recommendations.
+- `docs/DEEP_RESEARCH_PLAN.md` — revised sales-focused research scope.
+- `docs/NEXT_STEPS.md` — current execution priorities.
+- `docs/OUTSCRAPER_PILOT.md` — historical export and shortlist evidence.
+- `docs/PROJECT_CONTEXT.md`, `BUSINESS_MODEL.md`, `TOOLS_AND_SOURCES.md`, `PROSPECTING_PLAYBOOK.md` — earlier detailed background. Where priorities conflict, this handoff and Mitch's latest instructions control.
+
+## Data and communication discipline
+
+Keep facts, user-reported terms, provider claims, planning assumptions, and recommendations identifiable. Show actual matched measurements; do not invent rank positions, search volumes, customer-loss estimates, outreach results or case studies. Do not send outreach without explicit authorization. Keep private contact lists, raw purchased data, credentials and confidential documents out of this public repository.
+
+## Technical preferences if an app is later justified
+
+Base44 with React, Tailwind, shadcn/ui, lucide-react, react-router-dom, react-hook-form, recharts, react-quill, moment/date-fns, lodash, three.js, react-leaflet and @hello-pangea/dnd only. Use Base44 Entities SDK (`@/entities`), User methods, Core integrations, and `createPageUrl('PageName')`. Defensive null checks and loading indicators; no new auth pages; keys server-side. Use an external provider/worker for unsupported scraping/API work.

@@ -2,7 +2,11 @@
 
 Project hub for building and validating a white-label Google Maps / Google Business Profile visibility agency, beginning with local prospecting in Solano and Contra Costa Counties, California.
 
-**Status:** Research and pilot prospecting; no paid customer acquisition or vendor effectiveness validated yet. **Updated:** 2026-10-14 (Pacific Time).
+**Status:** Sales research completed; selecting three free prospect trials using the provider's own geo-grid tool. Provider ranking delivery is accepted as a working assumption per Mitch. Current candidate grids, outreach and paid results are pending. **Updated:** 2026-10-14 (Pacific Time).
+
+## Latest research and direction
+
+Read [docs/SALES_RESEARCH.md](docs/SALES_RESEARCH.md) for the completed sales research and source register, and [docs/DEEP_RESEARCH_PLAN.md](docs/DEEP_RESEARCH_PLAN.md) for the revised continuation plan. Mitch's latest instruction is to assume provider delivery, prioritize the supplied grid tool, and use the offer to rank **three companies free** as actual sales opportunities.
 
 ## Start here (new chats / collaborators)
 
@@ -18,7 +22,7 @@ Project hub for building and validating a white-label Google Maps / Google Busin
 
 Discover strong local service businesses that have good reviews and commercial value but limited Google Maps visibility. Use inexpensive Google Maps business discovery data for broad qualification; purchase grid-based local rank scans only for promising leads; offer a demonstrable trial and month-to-month visibility / local SEO services.
 
-The proposed white-label fulfillment partner claims to improve map visibility through coordinated local physical visits (“drives”). This mechanism has **not** been independently verified in this project and may conflict with Google's policies. Do not describe it as guaranteed, undetectable, or approved by Google. Build durable sales, reporting and ethical local SEO capabilities independent of the vendor.
+Provider materials are branded Jumper Local / Jumper Media. Mitch directs us to assume the provider delivers its stated ranking improvement. It supplies a ranking/grid tool and free trials. Our immediate work is identifying relevant keyword opportunities, reaching decision-makers, demonstrating matched before/after results and earning ongoing clients. No independently measured client outcome is yet recorded; measurements now serve prospect selection and demonstration.
 
 ## Repository visibility and data handling
 
