@@ -3,7 +3,7 @@
 Project hub for researching and potentially launching Mitch's white-label Google Maps / Google Business Profile ranking agency.
 
 **Updated:** 2026-10-15 Pacific (geo-grid research, Jumper Media due diligence and repo continuity).  
-**Current stage:** **Comprehensive research completed and saved**; next phase is independent-grid prospect qualification and controlled three-trial commercial validation. The owner has **not joined the provider** and **does not have its grid tool**. No actual client grids, outreach outcomes, paid sales or observed retention are recorded.
+**Current stage:** **Comprehensive research completed and saved**; first named real-world independent-grid prospect is **Wes's Car Tunes in Placerville** (keyword research complete, **no grid or business consent yet**), alongside controlled three-trial commercial validation. The owner has **not joined the provider** and **does not have its grid tool**. No actual client grids, outreach outcomes, paid sales or observed retention are recorded.
 
 ## Start here
 
@@ -14,7 +14,8 @@ Project hub for researching and potentially launching Mitch's white-label Google
 5. [Next Steps](docs/NEXT_STEPS.md) — immediate execution plan.
 6. [Provider Toolkit Brief](docs/PROVIDER_TOOLKIT_BRIEF.md) — detailed page-referenced summary of the 67-page Jumper Local PDF.
 7. **[Jumper Media independent due diligence (Oct 15, 2026)](docs/JUMPER_MEDIA_DUE_DILIGENCE_2026-10-15.md)** — independent supplier reputation, Reddit/customer complaints and praise, published contract, verification plan.
-8. [Deep Research Brief](docs/DEEP_RESEARCH_BRIEF.md) and [Deep Research Prompt](docs/DEEP_RESEARCH_PROMPT.md) — original assignment/archive.
+8. **[Wes's Car Tunes — first prospect keyword research (Oct 15, 2026)](docs/WES_CAR_TUNES_KEYWORD_GRID_RESEARCH_2026-10-15.md)** — analyzed 2,344 Planner keyword rows, near-duplicate volume clusters, commercial/high-ticket priorities and 3-keyword geo-grid baseline protocol. Raw uploaded CSV is *not* stored publicly; keyword geography is unknown.
+9. [Deep Research Brief](docs/DEEP_RESEARCH_BRIEF.md) and [Deep Research Prompt](docs/DEEP_RESEARCH_PROMPT.md) — original assignment/archive.
 
 **Supplier decision gate:** A separate October 15 investigation found substantive positive Jumper Local accounts alongside disputed external geo-grid comparisons and cancellation complaints. The commercial opportunity study still assumes possible ranking lift, per owner direction; do **not** interpret that assumption as verified supplier performance. Independently measure trials and obtain signed agency/white-label terms. See [Jumper Media independent due diligence (Oct 15, 2026)](docs/JUMPER_MEDIA_DUE_DILIGENCE_2026-10-15.md).
 
