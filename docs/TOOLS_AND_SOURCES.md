@@ -1,6 +1,6 @@
 # Tool Research, Pricing and Data Sources
 
-Updated 2026-10-14 PT. **Prices change. Recheck official vendor pricing and account-level features before purchasing.** Last checked official pricing pages on 2026-10-14 where marked verified; the remainder are historical leads to investigate.
+**Historical tool architecture/pricing baseline: 2026-10-14 PT.** See **[Geo-Grid Tool Comparison, 2026-10-15](GEO_GRID_TOOL_COMPARISON_2026-10-15.md)** for newer, broader vendor/Reddit research and verified trial restrictions. This existing file is deliberately kept as an earlier data architecture and pricing snapshot. **Prices change. Recheck official vendor pricing and account-level features before purchasing.** Last checked official pricing pages on 2026-10-14 where marked verified; the remainder are historical leads to investigate.
 
 ## Architectural principle: two different jobs
 
