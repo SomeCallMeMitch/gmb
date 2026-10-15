@@ -19,6 +19,15 @@
 - Historical Outscraper export: 150 unique Place IDs (96 Concord, 54 Vallejo); 12 preliminary shortlist. **No verified current geo-grid positions**.
 - No outreach, enrollment, paid subscriptions, completed trial conversions or observed retention has been recorded.
 
+## New Jumper Media supplier diligence gate (2026-10-15)
+
+A [dated supplier investigation](JUMPER_MEDIA_DUE_DILIGENCE_2026-10-15.md) found both strong positive accounts and detailed allegations of mismatched independent ranking scans, decay and billing/cancellation friction. These claims are not adjudicated; do not label Jumper fraudulent or noncompliant based on forum reviews. This supplements rather than replaces the owner's commercial-model assumption that the ranking service can deliver results.
+
+- [ ] Obtain **signed white-label terms**: explicit agency authorization despite public competitor restriction; wholesale costs; three free-trial criteria; service area/keywords; billing trigger; cancellation window; refund clauses; client ownership/non-solicitation; and reporting access.
+- [ ] Establish **agreed external geo-grid baseline + matched follow-up** (identical keywords, pins, local time and business-hours status) for every trial. If vendor and outside scans differ, reconcile settings before interpreting the result.
+- [ ] Ask for raw **30/90/180-day** performance data and verifiable agency partner references. Separate rankings from truly **qualified calls** and booked jobs; vendor-generated direction activity isn't a sales lead.
+- [ ] Assess Google's platform-policy and data/confidentiality risks with appropriate professional advice before relying on a single vendor.
+
 ## Immediate low-cost geo-grid test (added 2026-10-15)
 
 The owner plans to experiment with **one or two real prospects** first; don't spend money or initiate outreach without authorization. See [the expanded vendor/tool comparison](GEO_GRID_TOOL_COMPARISON_2026-10-15.md) for 15 options, trial/profile restrictions and practitioner feedback.
@@ -53,6 +62,7 @@ Each requires a **fresh rank-4/5/6 opportunity check**, owner approval, commerci
 
 ## Core handoff references
 
+- **[JUMPER_MEDIA_DUE_DILIGENCE_2026-10-15.md](JUMPER_MEDIA_DUE_DILIGENCE_2026-10-15.md)** — supplier reviews, online forums, contract and validation gate.
 - **[DEEP_RESEARCH_REPORT.md](DEEP_RESEARCH_REPORT.md)** — complete research and revised cash-only economics, market comparison, outreach, retention and 30/60/90 roadmap.
 - [PROVIDER_TOOLKIT_BRIEF.md](PROVIDER_TOOLKIT_BRIEF.md) — provider trial rules and PDF summary.
 - [OUTSCRAPER_PILOT.md](OUTSCRAPER_PILOT.md) — historical dataset and candidate shortlist.
