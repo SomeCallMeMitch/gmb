@@ -2,16 +2,16 @@
 
 Project hub for researching and potentially launching Mitch's white-label Google Maps / Google Business Profile ranking agency.
 
-**Updated:** 2026-10-15 Pacific.  
+**Updated:** 2026-10-15 Pacific (geo-grid research and repo continuity update).  
 **Current stage:** **Comprehensive research completed and saved**; next phase is independent-grid prospect qualification and controlled three-trial commercial validation. The owner has **not joined the provider** and **does not have its grid tool**. No actual client grids, outreach outcomes, paid sales or observed retention are recorded.
 
 ## Start here
 
-1. [AGENTS.md](AGENTS.md) — latest owner instructions and project handoff.
-2. **[Completed Deep Research Report](docs/DEEP_RESEARCH_REPORT.md)** — sourced opportunity assessment, revised October 15 for cash-only CAC, rank-4/5/6 targeting and proactive retention.
-3. [Next Steps](docs/NEXT_STEPS.md) — immediate execution plan.
-4. [Provider Toolkit Brief](docs/PROVIDER_TOOLKIT_BRIEF.md) — detailed page-referenced summary of the 67-page Jumper Local PDF.
-5. [Deep Research Brief](docs/DEEP_RESEARCH_BRIEF.md) and [Deep Research Prompt](docs/DEEP_RESEARCH_PROMPT.md) — original assignment/archive.
+1. [AGENTS.md](AGENTS.md) — latest owner instructions, project handoff **and update protocol**.\n2. [Repository Maintenance Protocol](docs/REPOSITORY_MAINTENANCE.md) — how to read, update, verify and maintain GitHub knowledge across chats; not automatic background synchronization.\n3. [Research Changelog](docs/RESEARCH_CHANGELOG.md) — dated research, decisions, and changed files.
+4. **[Completed Deep Research Report](docs/DEEP_RESEARCH_REPORT.md)** — sourced opportunity assessment, revised October 15 for cash-only CAC, rank-4/5/6 targeting and proactive retention.
+5. [Next Steps](docs/NEXT_STEPS.md) — immediate execution plan.
+6. [Provider Toolkit Brief](docs/PROVIDER_TOOLKIT_BRIEF.md) — detailed page-referenced summary of the 67-page Jumper Local PDF.
+7. [Deep Research Brief](docs/DEEP_RESEARCH_BRIEF.md) and [Deep Research Prompt](docs/DEEP_RESEARCH_PROMPT.md) — original assignment/archive.
 
 ## The model to research
 
@@ -28,7 +28,7 @@ The week-long demonstration concerns rankings. Completed jobs/revenue within a w
 - [Project Context](docs/PROJECT_CONTEXT.md) — agency concept, customer avatar and initial geography.
 - [Business Model](docs/BUSINESS_MODEL.md) — initial pricing and contribution models.
 - [Outscraper Pilot](docs/OUTSCRAPER_PILOT.md) — actual 150-listing Concord/Vallejo export and 12-candidate shortlist.
-- [Tools and Sources](docs/TOOLS_AND_SOURCES.md) — historical discovery/grid research; recheck current prices/features.
+- **[Geo-Grid Tool Comparison (Oct 15, 2026)](docs/GEO_GRID_TOOL_COMPARISON_2026-10-15.md)** — expanded 15-option comparison, verified vendor-advertised free credits, price snapshots and dated Reddit feedback; **recommendations for testing 1–2 prospects at $0**.\n- [Tools and Sources](docs/TOOLS_AND_SOURCES.md) — discovery/grid architecture and historical prices; recheck current checkout terms.
 - [Prospecting Playbook](docs/PROSPECTING_PLAYBOOK.md) — earlier workflow ideas.
 - [Preliminary Sales Research](docs/SALES_RESEARCH.md) — older sources and tactical recommendations; superseded for strategy by the completed report.
 - [Research Continuation Plan](docs/DEEP_RESEARCH_PLAN.md) — current scope and deliverables.
@@ -49,3 +49,9 @@ These filenames are context pointers, not downloadable repository files. Row-lev
 ## Data handling
 
 This repository is public. Keep private contact lists, confidential agreements, raw purchased data, credentials and client-specific reports out of it. Store general methods, appropriate source summaries, research links, aggregate findings and decisions.
+
+## Keeping the GitHub knowledge base current
+
+The `gmb` repository is the **canonical project knowledge base** for future conversations when a GitHub connection is available. **It does not sync ChatGPT chats automatically.** At the start of a new chat, direct the assistant to this repo and have it read `AGENTS.md`, the [maintenance protocol](docs/REPOSITORY_MAINTENANCE.md) and the [research changelog](docs/RESEARCH_CHANGELOG.md). At the end of material research, ask it to commit the new sources, findings, decisions and next steps, verify the changes and identify anything not uploaded. Never store confidential client contact data or private vendor source files in this public repository.
+
+**Copyable new-chat starter:** “Read https://github.com/SomeCallMeMitch/gmb starting with README.md, AGENTS.md and docs/RESEARCH_CHANGELOG.md. Use the repository as our source of truth and sync important findings/decisions back to the relevant files using my connected GitHub tool, verifying the commits. Keep confidential data out of the public repo.”
