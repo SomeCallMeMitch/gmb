@@ -2,6 +2,17 @@
 
 Keep **newest first**. This is a succinct decision/change register, not a replacement for the detailed reports. All dates Pacific unless noted. Add links to the exact file(s) and direct external references where relevant.
 
+## 2026-10-15 — First Placerville prospect, Keyword Planner interpretation and geo-grid query shortlist
+
+**Status:** Uploaded-keyword quantitative analysis + public-source business research; **no geogrid scan, owner conversation, locally verified volume or trial run**.
+
+- Added [Wes's Car Tunes keyword and geo-grid report](WES_CAR_TUNES_KEYWORD_GRID_RESEARCH_2026-10-15.md): identifies the first named prospect as Wes's Car Tunes, car stereo store at 335 Industrial Dr #2, Placerville; indexed public business description includes classic-car custom stereos and work on boats/RVs/quads (confirm services before pitching).
+- Parsed **2,344** Google Keyword Planner keywords from the 2026-10-15 uploaded UTF-16 TSV/CSV spanning **October 2025–September 2026**. Geographic targeting is absent from export; any Placerville volume estimate remains unverified. Six installation variants all share **60,500** and three car-audio near-me variants share **90,500** plus identical ad bid metrics. Google says historical search metrics are rounded and close variants may be consolidated; not additive traffic.
+- First low-budget grid choices: **car stereo installation near me**, **car audio near me**, **custom car audio near me**; secondary **car stereo shops near me** and potential high-ticket **classic car stereo** ($8.25 high-range ad bid in export, **not** ticket value or proof Maps local intent). Test SERP type before specialty scan.
+- Formalized local keyword selection: independent location-scoped Planner reruns, GBP Performance query insights if approved, exact coordinates, 5x5 baseline/follow-up, 4th–6th position opportunity, separate qualified calls/jobs from rank improvements.
+- Updated [README](../README.md), [AGENTS](../AGENTS.md), [NEXT_STEPS](NEXT_STEPS.md). **Did not upload the raw keyword export** to public GitHub.
+- Principal sources: [Google Planner historical stats](https://support.google.com/google-ads/answer/3022575?hl=en), [Google Ads API close variants](https://developers.google.com/google-ads/api/docs/keyword-planning/generate-historical-metrics), [GBP ranking guidance](https://support.google.com/business/answer/7091?hl=en), [Wes public Facebook listing](https://www.facebook.com/p/Wess-Car-Tunes-100067019910706/).
+
 ## 2026-10-15 — Jumper Media independent supplier due diligence and contractual review
 
 **Status:** Public-source desk research; **no provider membership, account-level trial or independent audited campaign outcome**.
