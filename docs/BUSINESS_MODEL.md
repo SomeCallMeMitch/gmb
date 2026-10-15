@@ -1,5 +1,7 @@
 # Business Model and Unit Economics
 
+> **Historical economics baseline (October 14).** The completed [October 15 deep research report](DEEP_RESEARCH_REPORT.md) and [AGENTS.md](../AGENTS.md) supersede the $500-only launch suggestion: currently test **$697 standard** and **$597 founding**; provider wholesale reportedly **$300**. Owner requests **cash-only CAC**, excluding imputed hourly founder costs. The latest provider trial availability is **three** offered businesses, not the earlier hypothetical 20. Retention and profit are not yet observed.
+
 Updated 2026-10-15 PT. Assumptions are estimates from conversation; no closed client sales or actual retention data yet.
 
 **Current economics and strategy:** [DEEP_RESEARCH_REPORT.md](DEEP_RESEARCH_REPORT.md) supersedes older pricing/CAC suggestions below. Per the owner's latest direction, **do not impute a founder hourly wage into CAC, contribution or payback**. Cash CAC means out-of-pocket acquisition spend; hours are only capacity metrics. Favor eligible rank-4/5/6 prospects and support retention with calls/bookings/revenue reporting. High retention is a hypothesis, not measured.
