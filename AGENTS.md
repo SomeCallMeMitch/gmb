@@ -1,12 +1,14 @@
 # AI Handoff / Project Memory
 
-Last updated: 2026-10-14 (Pacific). Repository: `SomeCallMeMitch/gmb`.
+Last updated: 2026-10-15 (Pacific). Repository: `SomeCallMeMitch/gmb`.
 
 ## Latest direction — governs all earlier notes
 
+**The comprehensive agency-opportunity research is now completed and saved as [docs/DEEP_RESEARCH_REPORT.md](docs/DEEP_RESEARCH_REPORT.md). Read that report before taking action.** It was revised October 15 per the owner's instructions: do not assign an hourly dollar cost to founder time or include founder hours in CAC; track only out-of-pocket cash acquisition expenses for cash CAC, while tracking time separately as a capacity constraint. Prefer qualified prospects currently around **4th, 5th or 6th** for valuable Google Maps searches rather than already securely in the Top 3. Client retention is a core service responsibility: show owners ranking progress plus qualified calls, booked jobs and client-supplied revenue where available. Strong retention is a goal/hypothesis, not yet observed. Seven-day rank improvement does not prove seven-day incremental revenue.
+
 Mitch has **not joined Jumper Local/Jumper Media** and **does not have access to its grid tool**. Do not describe that tool as currently available or make provider-tool access a prerequisite for research.
 
-**Immediate task:** prepare/continue a comprehensive Deep Research study of the opportunity to start a Google Maps ranking agency with a **free one-week ranking demonstration before the prospect buys**. Study the business, market and sales model broadly using the Internet. The previous sales report is preliminary and does not complete this assignment.
+**Current phase:** commercial validation after the completed research: independently grid-screen prospective auto shops before joining the provider, favor commercially valuable rank-4/5/6 gaps, reach qualified owners only with authorization, and use up to three promised free company trials once eligibility and terms are confirmed. The previous sales report is preliminary; the completed assessment is in docs/DEEP_RESEARCH_REPORT.md.
 
 - Accept the provider's ability to produce its described ranking improvements as a working assumption, per Mitch. Do not center the study on re-proving fulfillment.
 - The provider has offered to rank **three businesses free**, and free prospect trials are part of the proposed model.
@@ -33,7 +35,7 @@ Mitch favors practical, cost-efficient tests and has marketing/sales experience 
 - Proposed continuation: month-to-month with uncomplicated cancellation. State actual trial and continuation terms in advance; do not silently activate paid billing.
 - Working geography: Benicia, Vallejo, Fairfield, Concord, Napa and nearby Northern California. First actual export is Concord/Vallejo, not Benicia.
 - Prefer credible, owner-operated businesses with strong recent reviews relative to visible competitors, relevant search demand, address/provider fit, enough job contribution, capacity and a reachable buyer.
-- A low-review shop outranking a much better-reviewed competitor may still struggle to win customers. Review parity matters alongside ranking.
+- A low-review shop outranking a much better-reviewed competitor may still struggle to win customers. Review parity matters alongside ranking. **Preferred sales target:** around rank 4/5/6 on buyer-relevant grid points, with limited Top-3 share; not already comfortably Top 3.
 
 ## Existing work — do not repeat it blindly
 
@@ -55,16 +57,17 @@ Use the free trial commercially: qualify, agree terms and baseline, book the res
 
 ## Next actions
 
-1. Conduct the broad agency-opportunity study specified in `docs/DEEP_RESEARCH_BRIEF.md`.
-2. Compare real current agency offers, practitioner/owner experiences, channels, verticals, pricing, acquisition/retention economics and operational demands.
-3. Recommend whether/how to proceed, with scenarios and a 30/60/90-day plan.
-4. Research affordable ranking/prospect qualification options usable before joining; evaluate a provider tool only as a future possibility.
-5. After the opportunity study, choose implementation and trial steps based on its conclusions. Actual scans/outreach/trials are not prerequisites for completing the research.
-6. Save sourced findings and decisions to the repo when authorized tools are available.
+1. **Read docs/DEEP_RESEARCH_REPORT.md** for completed sourced research and updated economics. No founder hourly CAC or imputed hourly profit deductions.
+2. Obtain written provider terms (three free trials, $300 wholesale, membership fees, eligibility, keyword limits, billing and exclusivity).
+3. Refresh Concord/Vallejo prospects and discover Fairfield candidates; run inexpensive independent geo-grids **before** membership. Favor shops around positions **4–6** on valuable terms, subject to all provider criteria and review parity.
+4. Confirm owner interest, capacity and $597/$697 continuation terms before trial; book the results appointment; activate at most the three offered free trials once authorized.
+5. Close trial winners, measure qualified calls/bookings/revenue where available, send monthly owner-friendly reports and track real retention/renewals.
+6. Track **cash** CAC and recurring cash contribution, plus hours **only as capacity metrics**. Do not assume retention statistics not yet observed.
 
 ## Read next
 
-- `docs/DEEP_RESEARCH_BRIEF.md` — full current opportunity-research assignment.
+- `docs/DEEP_RESEARCH_REPORT.md` — **completed, sourced opportunity assessment and current strategy**.
+- `docs/DEEP_RESEARCH_BRIEF.md` — original opportunity-research assignment.
 - `docs/PROVIDER_TOOLKIT_BRIEF.md` — detailed source PDF summary.
 - `docs/DEEP_RESEARCH_PROMPT.md` — new-chat prompt.
 - `docs/SALES_RESEARCH.md` — preliminary sources and tactical recommendations, not the final opportunity study.
