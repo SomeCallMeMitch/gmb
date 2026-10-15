@@ -1,5 +1,7 @@
 # Project Context: Google Maps / GBP Visibility Agency
 
+> **Historical context (October 14).** See [AGENTS.md](../AGENTS.md), [DEEP_RESEARCH_REPORT.md](DEEP_RESEARCH_REPORT.md) and [NEXT_STEPS.md](NEXT_STEPS.md) for the updated October 15 operating position: Jumper Local / Jumper Media is the identified provider, **three** free trial businesses are currently reported, the owner is **not a member**, targeted positions are **4–6**, and $697/$597 pricing is recommended for testing. The earlier unnamed-vendor/20-trial/$500-first assumptions below remain only for historical provenance.
+
 Updated 2026-10-14 PT. This document consolidates the user's stated requirements and research discussion, **not** a claim that the vendor or economics have been independently validated.
 
 ## Vision
