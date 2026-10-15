@@ -1,5 +1,11 @@
 # AI Handoff / Project Memory
 
+## IMPORTANT — Permanent research record and update routine (2026-10-15)
+
+The owner wants `SomeCallMeMitch/gmb` to be the shared **durable knowledge base** for this project. **Read** [Repository Maintenance Protocol](docs/REPOSITORY_MAINTENANCE.md) and [Research Changelog](docs/RESEARCH_CHANGELOG.md) at the start of repo-related work, plus current topic documents. After material research, data, experiments or decisions, **use the authorized GitHub connector to update the appropriate docs**, append a dated changelog entry, and **fetch/verify** the saved files. Preserve prior evidence and avoid relabeling old pricing as current. This operating instruction is **not cross-chat automatic sync**: a future chat needs GitHub access and a direction to read this repo; if the connector is unavailable, say that nothing was committed. Public repo: don't upload private data or full proprietary PDF/XLSX files.
+
+**New dated research:** [Geo-grid tool comparison 2026-10-15](docs/GEO_GRID_TOOL_COMPARISON_2026-10-15.md) compares Whitespark, Grid My Business, GridBeacon, Local Falcon, Geogrid.dev and other alternatives, including dated Reddit feedback. **Current immediate focus:** the owner wants to experiment on one or two actual prospects using a free/inexpensive **independent** grid tool. Whitespark advertises 200 no-card credits; Grid My Business advertises 250 credits / **2** profiles; GridBeacon advertises 500 trial credits but **1** profile; Local Falcon advertises 100 trial credits. These are vendor-public claims as checked 2026-10-15, not verified balances in the user's accounts. Two prospects × two keywords × 5x5 × baseline/follow-up ≈ 200 credits at one credit per point. Keep grid geometry, timestamps, keyword spelling and competitor review parity consistent.
+
 Last updated: 2026-10-15 (Pacific). Repository: `SomeCallMeMitch/gmb`.
 
 ## Latest direction — governs all earlier notes
