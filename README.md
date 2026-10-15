@@ -7,7 +7,9 @@ Project hub for researching and potentially launching Mitch's white-label Google
 
 ## Start here
 
-1. [AGENTS.md](AGENTS.md) — latest owner instructions, project handoff **and update protocol**.\n2. [Repository Maintenance Protocol](docs/REPOSITORY_MAINTENANCE.md) — how to read, update, verify and maintain GitHub knowledge across chats; not automatic background synchronization.\n3. [Research Changelog](docs/RESEARCH_CHANGELOG.md) — dated research, decisions, and changed files.
+1. [AGENTS.md](AGENTS.md) — latest owner instructions, project handoff **and update protocol**.
+2. [Repository Maintenance Protocol](docs/REPOSITORY_MAINTENANCE.md) — how to read, update, verify and maintain GitHub knowledge across chats; not automatic background synchronization.
+3. [Research Changelog](docs/RESEARCH_CHANGELOG.md) — dated research, decisions, and changed files.
 4. **[Completed Deep Research Report](docs/DEEP_RESEARCH_REPORT.md)** — sourced opportunity assessment, revised October 15 for cash-only CAC, rank-4/5/6 targeting and proactive retention.
 5. [Next Steps](docs/NEXT_STEPS.md) — immediate execution plan.
 6. [Provider Toolkit Brief](docs/PROVIDER_TOOLKIT_BRIEF.md) — detailed page-referenced summary of the 67-page Jumper Local PDF.
@@ -28,7 +30,8 @@ The week-long demonstration concerns rankings. Completed jobs/revenue within a w
 - [Project Context](docs/PROJECT_CONTEXT.md) — agency concept, customer avatar and initial geography.
 - [Business Model](docs/BUSINESS_MODEL.md) — initial pricing and contribution models.
 - [Outscraper Pilot](docs/OUTSCRAPER_PILOT.md) — actual 150-listing Concord/Vallejo export and 12-candidate shortlist.
-- **[Geo-Grid Tool Comparison (Oct 15, 2026)](docs/GEO_GRID_TOOL_COMPARISON_2026-10-15.md)** — expanded 15-option comparison, verified vendor-advertised free credits, price snapshots and dated Reddit feedback; **recommendations for testing 1–2 prospects at $0**.\n- [Tools and Sources](docs/TOOLS_AND_SOURCES.md) — discovery/grid architecture and historical prices; recheck current checkout terms.
+- **[Geo-Grid Tool Comparison (Oct 15, 2026)](docs/GEO_GRID_TOOL_COMPARISON_2026-10-15.md)** — expanded 15-option comparison, verified vendor-advertised free credits, price snapshots and dated Reddit feedback; **recommendations for testing 1–2 prospects at $0**.
+- [Tools and Sources](docs/TOOLS_AND_SOURCES.md) — discovery/grid architecture and historical prices; recheck current checkout terms.
 - [Prospecting Playbook](docs/PROSPECTING_PLAYBOOK.md) — earlier workflow ideas.
 - [Preliminary Sales Research](docs/SALES_RESEARCH.md) — older sources and tactical recommendations; superseded for strategy by the completed report.
 - [Research Continuation Plan](docs/DEEP_RESEARCH_PLAN.md) — current scope and deliverables.
