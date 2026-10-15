@@ -2,6 +2,17 @@
 
 Keep **newest first**. This is a succinct decision/change register, not a replacement for the detailed reports. All dates Pacific unless noted. Add links to the exact file(s) and direct external references where relevant.
 
+## 2026-10-15 — Jumper Media independent supplier due diligence and contractual review
+
+**Status:** Public-source desk research; **no provider membership, account-level trial or independent audited campaign outcome**.
+
+- Added the detailed [Jumper Media Due Diligence Report](JUMPER_MEDIA_DUE_DILIGENCE_2026-10-15.md): negative and positive Trustpilot/Google/BBB/Clutch/Glassdoor experiences, four extensive practitioner Reddit threads, CEO responses, stated human/GBP interaction method, methodological and policy questions, and a source register.
+- Rechecked the vendor's [Aug. 1, 2026 Master Subscription Agreement](https://jumpermedia.co/legal/subscription-agreement/): **§1** restricts direct competitors without permission; **§7** defaults to auto-renewal / 30-day notice; **§9.1** counts one campaign keyword in Top 3 within 90 days; **§9.3** limits/refines refund conditions; **§9.4** disclaims calls/leads/revenue; **§10** limits liability. Agency order-form terms are unknown.
+- Fresh point-in-time platform snapshots: [Trustpilot](https://www.trustpilot.com/review/jumpermedia.com) **4.3/242** (supersedes earlier 4.2/~243 note), [BBB reviews](https://www.bbb.org/us/ca/san-diego/profile/digital-marketing/jumper-media-llc-1126-172021620/customer-reviews) **3.64/11**, [BBB complaints](https://www.bbb.org/us/ca/san-diego/profile/digital-marketing/jumper-media-llc-1126-172021620/complaints) **3 in three years**, [Birdeye/Google](https://reviews.birdeye.com/jumper-media-166694907070547) **4.2/320**, [Glassdoor](https://www.glassdoor.com/Reviews/Jumper-Media-Reviews-E1752975.htm) **4.1/63**. These are changing metrics and multiple service eras.
+- New agency gate: require written wholesale/white-label cancellation and client protections; use independent matched-grid before/after scans and 30/90-day persistence tracking; do not count generated directions as organic qualified inquiries. **No proven fraud, suspension or contract breach established.**
+- The user's existing instruction to **assume fulfillment is possible in commercial opportunity research remains unchanged**. This is a separate assessment of supplier concentration and verification risk.
+- Updated [README](../README.md), [AGENTS](../AGENTS.md), and [NEXT_STEPS](NEXT_STEPS.md) to link this report. Existing opportunity, prospect and geo-grid research preserved.
+
 ## 2026-10-15 — Additional geo-grid tools, Reddit feedback and repository continuity process
 
 **Status:** Dated, vendor-public-information check and forum review; **no hands-on accounts or grid scans verified**.
